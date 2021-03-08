@@ -1,0 +1,1 @@
+{"source": "user", "pair_id": 9550, "item1": {"segmentation": [[61, 20, 178, 12, 340, 2, 388, 244, 388, 516, 3, 518, 1, 249, 61, 20]], "scale": 3, "viewpoint": 1, "zoom_in": 3, "landmarks": [61, 20, 2, 178, 12, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "style": 2, "bounding_box": [0, 0, 389, 519], "category_id": 9, "occlusion": 1, "category_name": "skirt"}}
